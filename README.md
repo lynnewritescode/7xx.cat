@@ -21,7 +21,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 711 - Convenience Store
     - 712 - NoSQL
     - 718 - I am not a teapot
-          - https://media.giphy.com/media/PPu6fIRnpwMdG/giphy.gif
+      - https://media.giphy.com/media/PPu6fIRnpwMdG/giphy.gif submitted by https://github.com/lynnewritescode
     - 719 - Haskell
   * 72X - Edge Cases
     - 720 - Unpossible
