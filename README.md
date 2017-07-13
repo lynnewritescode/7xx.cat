@@ -69,7 +69,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 762 - Stoned
     - 763 - Under-Caffeinated
     - 764 - Over-Caffeinated
-		- https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif
+      - https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif submitted by https://github.com/davidmcg1985
     - 765 - Railscamp
     - 766 - Sober
     - 767 - Drunk
@@ -101,7 +101,7 @@ To contribute add a link to your gif, followed by your name and a link to your p
     - 791 - The Internet shut down due to copyright restrictions
     - 792 - Climate change driven catastrophic weather event
     - 793 - Zombie Apocalypse
-      - https://media.giphy.com/media/1FFICJRp8QQb6/giphy.gif
+      - https://media.giphy.com/media/1FFICJRp8QQb6/giphy.gif submitted by https://github.com/davidmcg1985
     - 794 - Someone let PG near a REPL
     - 795 - #heartbleed (see 705)
     - 797 - This is the last page of the Internet. Go back
