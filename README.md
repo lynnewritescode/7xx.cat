@@ -10,5 +10,8 @@
 - https://media0.giphy.com/media/xT8qBt2943MLRO8zuM/200.webp#1-grid1
 - https://media.giphy.com/media/9IRX12VhoXoR2/giphy.gif
 
+718
+- https://media.giphy.com/media/PPu6fIRnpwMdG/giphy.gif
+
 778
 - https://rob.nu/wp-content/uploads/2016/05/CAT-GIF-Kitten-jump-fail-He-takes-out-Kitten-doing-box-jump-haha.gif?x35024
