@@ -1,5 +1,11 @@
 # 7xx.cat
 
+## Contribute
+
+To contribute add a link to your gif, followed by your name and a link to your profile (Github, Twitter, whatever)
+
+## The gifs
+
   * 70X - Inexcusable
     - 701 - Meh
     - 702 - Emacs
